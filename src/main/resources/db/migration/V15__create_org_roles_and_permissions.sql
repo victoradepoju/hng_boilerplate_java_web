@@ -38,7 +38,6 @@ CREATE TABLE user_org_roles (
 
 
 
-
 ALTER TABLE user_org_roles
 ADD COLUMN organisation_id VARCHAR(36) NOT NULL;
 
